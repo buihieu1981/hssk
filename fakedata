@@ -12,10 +12,10 @@
   {"img_url":"https://i.ibb.co/DrdsPfW/44.png"} 
 ],
 "profile":[  
-   {"name":"Bùi Hiệu","re":"Tôi", "avatar_url":"https://bizweb.dktcdn.net/100/392/388/products/z2805461259109-3040f96e1a6423f176aca350875cf765.jpg?v=1634188061233"},  
-   {"name":"Bùi Ngân An","re":"Con", "avatar_url":"https://bizweb.dktcdn.net/100/392/388/products/z2805461259109-3040f96e1a6423f176aca350875cf765.jpg?v=1634188061233"},
-   {"name":"Bùi Văn A","re":"Bố", "avatar_url":"https://bizweb.dktcdn.net/100/392/388/products/z2805461259109-3040f96e1a6423f176aca350875cf765.jpg?v=1634188061233"}, 
-   {"name":"Trần Thị B","re":"Mẹ", "avatar_url":"https://bizweb.dktcdn.net/100/392/388/products/z2805461259109-3040f96e1a6423f176aca350875cf765.jpg?v=1634188061233"}  
+   {"name":"Bùi Hiệu","re":"Tôi", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"},  
+   {"name":"Bùi Ngân An","re":"Con", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"},
+   {"name":"Bùi Văn A","re":"Bố", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"}, 
+   {"name":"Trần Thị B","re":"Mẹ", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"}  
 ]
 "doctor":[  
    {"name":"Ts.Bs Nguyễn Anh Tuấn","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/hZvvMZP/bsnguyenanhtuan.jpg"},  
