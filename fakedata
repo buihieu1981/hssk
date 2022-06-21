@@ -15,8 +15,8 @@
 "profile":[  
    {"name":"Bùi Hiệu","re":"Tôi", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"},  
    {"name":"Bùi Ngân An","re":"Con", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"},
-   {"name":"Bùi Văn A","re":"Bố", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"}, 
-   {"name":"Trần Thị B","re":"Mẹ", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"}  
+   {"name":"Bùi Văn Tuấn","re":"Bố", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"}, 
+   {"name":"Trần Thị Thảo","re":"Mẹ", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"}  
 ],
 "doctor":[  
    {"name":"Ts.Bs Nguyễn Anh Tuấn","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/hZvvMZP/bsnguyenanhtuan.jpg"},  
