@@ -15,19 +15,14 @@
 "profile":[  
    {"name":"Bùi Hiệu","re":"Tôi", "avatar_url":"https://i.ibb.co/NpMfnpX/toi.jpg"},  
    {"name":"Bùi Ngân An","re":"Con", "avatar_url":"https://i.ibb.co/TBHZh1T/Kien.png"},
-   {"name":"Bùi Văn Tuấn","re":"Bố", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"}, 
-   {"name":"Trần Thị Thảo","re":"Mẹ", "avatar_url":"https://i.ibb.co/wd1qHdc/avatartoi.jpg"}  
+   {"name":"Bùi Văn Tuấn","re":"Bố", "avatar_url":"https://i.ibb.co/59GGVFL/1d5a39545f299c77c538.jpg"}, 
+   {"name":"Trần Thị Thảo","re":"Mẹ", "avatar_url":"https://i.ibb.co/n39xNQg/mther.jpg"}  
 ],
 "doctor":[  
    {"name":"Ts.Bs Nguyễn Anh Tuấn","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/hZvvMZP/bsnguyenanhtuan.jpg"},  
    {"name":"Ts.Bs Trần Phan Ninh","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/7WMh72W/tranphanninh.jpg"},
-   {"name":"Ts.Bs Trần Phan Ninh","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/7WMh72W/tranphanninh.jpg"}  
-
-],
-"doctor":[  
-   {"name":"Ts.Bs Nguyễn Anh Tuấn","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/hZvvMZP/bsnguyenanhtuan.jpg"},  
-   {"name":"Ts.Bs Trần Phan Ninh","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/7WMh72W/tranphanninh.jpg"},
-   {"name":"Ts.Bs Trần Phan Ninh","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/7WMh72W/tranphanninh.jpg"}  
+   {"name":"Ts.Bs Trần Phan Ninh","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/7WMh72W/tranphanninh.jpg"},  
+      {"name":"Ts.Bs Nguyễn Anh Tuấn","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/hZvvMZP/bsnguyenanhtuan.jpg"}  
 
 ]
 } 
