@@ -21,8 +21,9 @@
 "doctor":[  
    {"name":"Ts.Bs Nguyễn Anh Tuấn","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/hZvvMZP/bsnguyenanhtuan.jpg"},  
    {"name":"Ts.Bs Trần Phan Ninh","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/7WMh72W/tranphanninh.jpg"},
-   {"name":"Ts.Bs Trần Phan Ninh","Khoa":"Thần kinh", "avatar_url":"https://i.ibb.co/7WMh72W/tranphanninh.jpg"},  
-  {"name":"BS. Nguyễn Thị Ngọc","Khoa":"Sản phụ khoa", "avatar_url":"https://i.ibb.co/4VN8Fd9/ngp.png"}  
+   {"name":"Bs Nguyễn Việt Hoa","Khoa":"Phẫu Thuật Tiết Niệu", "avatar_url":"https://i.ibb.co/WKJCzBk/bshoa.jpg"},  
+  {"name":"BS Nguyễn Thị Ngọc","Khoa":"Sản phụ khoa", "avatar_url":"https://i.ibb.co/4VN8Fd9/ngp.png"},  
+  {"name":"BS Nguyễn Thị Dung","Khoa":"Vật lý trị liệu", "avatar_url":"https://i.ibb.co/LYN6ZFQ/IMG-7555.jpg"}  
 
 ]
 } 
